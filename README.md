@@ -10,7 +10,7 @@
 - Eliminate dummy data 
 - Wire up the app to persist data in local storage
 
-*Available Scripts*
+## *Available Scripts*
 In the project directory, you can run:
 
 npm start
