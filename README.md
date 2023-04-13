@@ -9,6 +9,7 @@
 ## ToDo
 - Eliminate dummy data 
 - Wire up the app to persist data in local storage
+- Migrate to vitejs
 
 ## *Available Scripts*
 In the project directory, you can run:
